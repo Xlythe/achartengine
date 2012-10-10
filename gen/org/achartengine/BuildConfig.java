@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package org.achartengine.chartdemo.demo;
+package org.achartengine;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
